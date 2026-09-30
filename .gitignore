@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+dist/
+
+# OLM Digital の配布物（マニュアル）はリポジトリに含めない
+*.pdf
